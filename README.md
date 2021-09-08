@@ -2,7 +2,7 @@
 
 <!--
 **Asiddhartha/Asiddhartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GitHub
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Tableau
 - 📫 How to reach me: [gmail](mailto:siddhartha.reddy95@gmail.com)
 - 😄 Pronouns: 
-- ⚡ Fun fact: you can't wash your eyes with soap
--->
+- ⚡ Fun fact: you can't wash your eyes with soa
